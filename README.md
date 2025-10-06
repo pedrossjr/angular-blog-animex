@@ -1,9 +1,9 @@
 # Angular Blog Animex
 
-![Home](https://github.com/pedrossjr/angular-blog-animex/tree/main/public/page.png)
-
-Projeto em Angular baseado em um modelo de site de blog de animes e mangé.  
+Projeto em Angular baseado em um modelo de site de blog de animes e mangá.  
 Este projeto serve como base para um blog desenvolvido com Angular, contemplando componentes, rotas e estrutura típica de aplicação web.
+
+![Home](https://raw.githubusercontent.com/pedrossjr/angular-blog-animex/main/public/page.png)
 
 ---
 
@@ -103,26 +103,6 @@ Este projeto serve como base para um blog desenvolvido com Angular, contemplando
 
 ---
 
-## ✨ Contribuição
-
-1. Faça um _fork_ do repositório.
-2. Crie uma _branch_ com a nova funcionalidade ou correção:
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Faça seus commits de forma clara e concisa.
-4. Envie um _pull request_ para análise.
-
----
-
-## 📄 Licença
-
-MIT License
-
-Copyright (c) 2025
-
----
-
 ## 📝 Notas adicionais
 
 Este projeto foi gerado com o Angular CLI.  
@@ -133,3 +113,11 @@ ng help
 ```
 
 ou consulte a documentação oficial: [Angular CLI Docs](https://angular.dev/tools/cli)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Pedro Silva**  
+🔗 [GitHub](https://github.com/pedrossjr)  
+🔗 [Linkedin](https://www.linkedin.com/in/pedrosouzasjr/)
