@@ -1,0 +1,17 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 75px;
+  background-color: #0D78BE;
+}
+
+.footer_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #FFFFFF;
+}

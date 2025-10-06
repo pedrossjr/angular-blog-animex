@@ -5,11 +5,13 @@ import { SmallCardComponent } from "../../components/small-card/small-card.compo
 import { MenuBarComponent } from "../../components/menu-bar/menu-bar.component";
 import { dataFake } from '../../data/dataFake';
 import { ActivatedRoute } from '@angular/router';
+import { MoreCardComponent } from "../../components/more-card/more-card.component";
+import { FooterBarComponent } from "../../components/footer-bar/footer-bar.component";
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [MenuTitleComponent, BigCardComponent, SmallCardComponent, MenuBarComponent],
+  imports: [MenuTitleComponent, BigCardComponent, SmallCardComponent, MenuBarComponent, MoreCardComponent, FooterBarComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })

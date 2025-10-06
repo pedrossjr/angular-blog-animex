@@ -1,0 +1,82 @@
+.more-card__container {
+  background-color: #ffffff;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  /* padrão para mobile */
+  align-items: center;
+}
+
+@media (min-width: 700px) {
+  .more-card__container {
+    flex-direction: row;
+    /* lado a lado */
+    flex-wrap: wrap;
+    /* permite quebrar linha se ultrapassar a largura */
+    justify-content: center;
+    /* centraliza horizontalmente */
+    gap: 20px;
+    /* espaço entre os cards */
+  }
+}
+
+.more-card-header__container {
+  background-color: #ffffff;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  /* padrão para mobile */
+  align-items: left;
+}
+
+.more-card-header__container > h3 {
+  background-color: #ffffff;
+  color: #BEBEBE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  margin: 15px 0 25px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.more-card__content {
+  background-color: #ffffff;
+  margin: 10px;
+  width: 190px;
+}
+
+.more-card__image > img {
+  width: 190px;
+  height: 110px;
+}
+
+.more-card__dataPublish {
+  background-color: #ffffff;
+  font-size: 11px;
+  color: #898989;
+  width: 190px;
+  margin: 5px 0 5px 0;
+}
+
+.more-card__description {
+  background-color: #ffffff;
+}
+
+.more-card__description > h4 {
+  background-color: #ffffff;
+  color: #121212;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 5px 0 5px 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.more-card__description > p {
+  background-color: #ffffff;
+  color: #898989;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 5px 0 5px 0;
+  font-size: 13px;
+}

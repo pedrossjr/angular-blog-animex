@@ -1,6 +1,6 @@
 .container__menu-bar {
   height: 100px;
-  background-color: #121212;
+  background-color: #0D78BE;
   display: flex;
 
   @media(min-width: 700px) {
@@ -30,21 +30,20 @@
 
 .menu__container > ul > li > a{
   text-decoration: none;
-  color: #898989;
+  color: #FFFFFF;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 12px;
 }
 
 .menu__container > ul > li > a:hover{
-  color: white;
+  color: #575757;
   transition: 0.3s;
 }
 
 .social-networking__container {
   display: flex;
   flex-direction: row;
-  margin-right: 0px;
-  margin-left: 0px;
+  padding-left: 200px;
 }
 
 .social-networking__container > img {
