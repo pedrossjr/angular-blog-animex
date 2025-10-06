@@ -23,26 +23,8 @@ export class BigCardComponent implements OnInit {
   photoCover:string = "";
 
   constructor(
-    /*private route:ActivatedRoute*/
   ) { }
 
-
   ngOnInit(): void {
-    /*this.route.paramMap.subscribe(value =>
-      this.Id = value.get('id')
-    );
-
-    this.setValuesToComponent(this.Id);*/
   }
-/*
-    setValuesToComponent(id:string | null){
-      const result = dataFake.filter(
-        article => article.id.toString() === id
-      )[0];
-
-      this.cardTitle = result.title;
-      this.cardDescription = result.description;
-      this.photoCover = result.photoCover;
-    }
-*/
 }
