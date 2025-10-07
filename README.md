@@ -1,7 +1,7 @@
 # Angular Blog Animex
 
-Projeto em Angular baseado em um modelo de site de blog de animes e mangá.  
-Este projeto serve como base para um blog desenvolvido com Angular, contemplando componentes, rotas e estrutura típica de aplicação web.
+
+Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamoa um modelo de site de blog sobre animes e mangá.
 
 ![Home](https://raw.githubusercontent.com/pedrossjr/angular-blog-animex/main/public/page.png)
 
