@@ -1,7 +1,7 @@
 # Angular Blog Animex
 
 
-Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamoa um modelo de site de blog sobre animes e mangá.
+Este projeto faz parte do desafio do curso Angular Developer da [DIO](https://www.dio.me/) onde recriamos um modelo de site de blog sobre animes e mangá.
 
 ![Home](https://raw.githubusercontent.com/pedrossjr/angular-blog-animex/main/public/page.png)
 
